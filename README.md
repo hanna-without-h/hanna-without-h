@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanna-without-h
+- 👋 Hi, I’m @hanna-without-h also known as just Hanna
 - 👀 I’m interested in statistical methods, R & python
 - 🌱 I’m currently learning to do more advanced statistical coding in R and coding for fun in python
 - 💞️ I’m looking to collaborate on nothing in particular yet - gotta get my skills up first
